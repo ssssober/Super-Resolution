@@ -36,4 +36,10 @@
 **[Perceptual Deep Depth Super-Resolution(201812)](https://ieeexplore.ieee.org/document/9009004/)**  
 **[Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations(TIP2019)](https://ieeexplore.ieee.org/document/8491336/)**  
 **[High-quality 3D Reconstruction with Depth Super-resolution and Completion(IEEE Access2019)](https://ieeexplore.ieee.org/abstract/document/8628990)**  
-**[Simultaneous color-depth super-resolution with conditional generative adversarial networks(PR2019)](https://www.sciencedirect.com/science/article/abs/pii/S0031320318304175)**
+**[Simultaneous color-depth super-resolution with conditional generative adversarial networks(PR2019)](https://www.sciencedirect.com/science/article/abs/pii/S0031320318304175)**  
+## Stereo Super-Resolution  
+**[StereoSR：Enhancing the Spatial Resolution of Stereo Images using a Parallax Prior（cvpr2018）](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0493.pdf)**  
+**[Learning Parallax Attention for Stereo Image Super-Resolution（cvpr2019）](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Parallax_Attention_for_Stereo_Image_Super-Resolution_CVPR_2019_paper.pdf)**  
+**[Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution(ACCESS2019)]()**
+**[A Stereo Attention Module for Stereo Image Super-Resolution(IEEE Signal Processing Letters 2020)](https://ieeexplore.ieee.org/document/8998204)**  
+**[Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution(ICASSP2020)](https://ieeexplore.ieee.org/document/9054687)**  
