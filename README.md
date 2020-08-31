@@ -43,3 +43,4 @@
 **[Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution(ACCESS2019)]()**
 **[A Stereo Attention Module for Stereo Image Super-Resolution(IEEE Signal Processing Letters 2020)](https://ieeexplore.ieee.org/document/8998204)**  
 **[Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution(ICASSP2020)](https://ieeexplore.ieee.org/document/9054687)**  
+**[Disparity-Aware Domain Adaptation in Stereo Image Restoration(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Disparity-Aware_Domain_Adaptation_in_Stereo_Image_Restoration_CVPR_2020_paper.pdf)**  
